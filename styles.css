@@ -1,11 +1,95 @@
+/* font-family: 'Oswald', sans-serif;
+font-family: 'Quattrocento', serif; */
+
 .container1 {
     background-color: #11AEEE;
+    width: 100%;
     height: 800px;
+    display: flex;
+    flex-direction: row;
+}
+
+.img1 {
+    height: 60%;
+}
+
+.img2 {
+    height: 50%;
+}
+
+h2 {
+    font-family: 'Oswald', sans-serif; 
+    font-size: 5rem;
+    letter-spacing: 10px;
+    text-align: center;
+}
+
+h3 {
+    font-family: 'Oswald', sans-serif; 
+    font-size: 2rem;
+   
+    text-align: center;
+}
+
+h4 {
+    font-family: 'Quattrocento', serif;
+    letter-spacing: 2px;
+    line-height: 1.4;
+    text-align: center;
+}
+
+.hfour {
+    font-family: 'Quattrocento', serif;
+    line-height: 1.4;
+    text-align: center;
+    padding: 2rem;
+}
+
+.leftside {
+color: #fff;
+    height: 100%;
+    width: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    padding-left: 5rem;
+}
+
+.rightside {
+width: 50%;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+
+.ls {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    width: 50%;
+    height: 100%;
+    
+
+}
+
+.rs {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    width: 50%;
+    height: 100%;
+   
 }
 
 .container2 {
     background-color: white;
+    width: 100%;
     height: 800px;
+    display: flex;
+    flex-direction: row;
 }
 
 nav {
@@ -33,3 +117,4 @@ nav ul li a {
     text-decoration: none;
     color: #333;
 }
+

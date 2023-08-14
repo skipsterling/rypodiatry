@@ -204,3 +204,13 @@ nav ul li a {
     height: 800px;
     width: 45%;
 }
+
+.ry-img {
+    height: 50%;
+    border-radius: 50%;
+}
+
+.zac-img {
+    height: 50%;
+    border-radius: 50%;
+}

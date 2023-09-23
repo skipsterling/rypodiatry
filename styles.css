@@ -223,6 +223,43 @@ button {
     width: 30%;
 }
 
+button:hover {
+    background-color: #11AEEE;
+    color: #fff;
+}
+
 .podskills {
     width: 100%;
 }
+
+.container5 {
+    display: flex;
+    flex-wrap: wrap;
+    color: #fff;
+    width: 100%;
+    height: 1500px;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.square {
+    width: calc(33.33%); 
+    height: 0;
+    padding-bottom: calc(33.33%);
+    box-sizing: border-box; 
+}
+
+.black {
+    background-color: black;
+}
+
+.grey {
+    background-color: grey; 
+}
+
+.white {
+    background-color: white; 
+}
+
+

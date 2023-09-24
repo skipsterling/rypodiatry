@@ -244,7 +244,7 @@ button:hover {
 }
 
 .black {
-    width: 33.33%;
+    width: 23.33%;
     height: 50%;
     background-color: black;
     color: white;
@@ -252,18 +252,31 @@ button:hover {
     justify-content: center;
     align-items: center;
     flex-direction: column;
+    padding: 5%;
 }
 
 .grey {
-    width: 33.33%;
+    width: 23.33%;
     height: 50%;
     background-color: grey;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 5%;
 }
 
 .lightgrey {
-    width: 33.33%;
+    width: 23.33%;
     height: 50%;
     background-color: lightgrey;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 5%;
 }
 
 .swICON {

@@ -297,3 +297,13 @@ button:hover {
     font-weight: bold;
     color: #11AEEE
 }
+
+/* FOOTER */
+
+.footer {
+    background-color: #11AEEE; 
+    color: #fff;
+    padding: 10px 0; 
+    text-align: center; 
+    width: 100%;
+}

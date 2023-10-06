@@ -153,8 +153,9 @@ h3 {
 
 nav {
     background-color: white;
-    height: 50px;
-    padding: 10px;
+    height: 100%;
+    width: 100%;
+    padding: 30px;
     color: #fff;
     display: flex;
     align-items: center;
@@ -352,3 +353,32 @@ button:hover {
 }
 
 /* TEMP PAGE STYLES */
+
+.tempORTH {
+    width: 100%;
+}
+
+.footerTEMP {
+    background-color: #bbcfac;
+    color: #fff;
+    padding: 10px 0;
+    text-align: center;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+.bodTEMP {
+    background-color: #BCCAAC;
+}
+
+.navTEMP {
+    background-color: #bbcfac;
+    height: 100%;
+    width: 100%;
+    padding: 30px;
+    color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

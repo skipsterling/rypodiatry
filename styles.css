@@ -447,6 +447,8 @@ position: relative;
     align-items: center;
     justify-content: center;
     flex-direction: column;
+    height: 100%;
+
 }
 
 .meeth3 {
@@ -456,4 +458,13 @@ position: relative;
 .meetp {
  color: #fff;
  text-align: center;
+}
+
+.innercont {
+    height: 50%;
+    width: 50%;
+}
+
+.listSymptom {
+    color: #fff;
 }

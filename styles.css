@@ -488,3 +488,22 @@ position: relative;
 .faqp {
     font-size: 1.2rem;
 }
+
+/* services  */
+
+.serviceRight {
+    object-fit: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 2rem;
+}
+
+.serviceLeft {
+    background-color: #11AEEE;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 10%;
+}

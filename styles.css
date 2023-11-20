@@ -506,3 +506,9 @@ position: relative;
     flex-direction: column;
     padding: 10%;
 }
+
+/* contact */
+
+.contactimg {
+    width: 100%;
+}

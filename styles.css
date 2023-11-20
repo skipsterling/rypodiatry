@@ -492,7 +492,6 @@ position: relative;
 /* services  */
 
 .serviceRight {
-    object-fit: cover;
     display: flex;
     align-items: center;
     justify-content: center;

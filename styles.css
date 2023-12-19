@@ -113,6 +113,7 @@ font-family: 'Quattrocento', serif; */
     display: flex;
     justify-content: space-between;
     padding: 20px;
+    font-family: 'Quattrocento', serif;
 }
 
 /* PAGE 1 CONTAINER 4 */
@@ -131,6 +132,9 @@ font-family: 'Quattrocento', serif; */
     height: 50%;
 }
 
+p {
+    font-family: 'Quattrocento', serif;
+}
 
 h2 {
     font-family: 'Oswald', sans-serif;
@@ -181,7 +185,7 @@ nav ul li a {
 
 
 .dotpoints-two {
-
+    font-family: 'Quattrocento', serif;
     display: flex;
     padding: 20px;
 }
@@ -233,9 +237,10 @@ button {
     background-color: #11AEEE;
     color: #fff;
     text-decoration: none;
-    height: 40px;
-    width: 120%;
-    border-radius: 20px;
+    height: 50px;
+    width: 200%;
+    border-radius: 25px;
+    font-family: 'Oswald', sans-serif;
 }
 
 button:hover {
@@ -455,6 +460,7 @@ position: relative;
 }
 
 .meeth3 {
+    font-family: 'Oswald', sans-serif;
    color: #fff;
 }
 
@@ -514,4 +520,8 @@ position: relative;
 
 .contactimg {
     width: 100%;
+}
+
+li {
+    font-family: 'Quattrocento', serif;
 }
